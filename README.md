@@ -26,7 +26,7 @@ The School Management System is designed to streamline key academic and administ
 
 <p align="center">
 Login Page: <br/>
-<img src="https://imgur.com/Hz9Qhhx" height="80%" width="80%" alt="Login Page"/>
+<img src="https://i.imgur.com/Hz9Qhhx.png" height="80%" width="80%" alt="Login Page"/>
 <br />
 <br />
 Select the disk:  <br/>
