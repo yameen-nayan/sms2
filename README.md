@@ -9,14 +9,20 @@ The School Management System is designed to streamline key academic and administ
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
+- <b>Oracle SQL</b> 
+- <b>Oracle PL/SQL</b>
+- <b>Oracle Apex 24.1</b> 
+- <b>Oracle BI Publisher</b>
+- <b>HTML</b> 
+- <b>CSS</b>
+- <b>JavaScript</b> 
+<!--
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
+-->
 
-<h2>Program walk-through:</h2>
+<h2>Screenshots:</h2>
 
 <p align="center">
 Launch the utility: <br/>
