@@ -29,28 +29,28 @@ Login Page: <br/>
 <img src="https://i.imgur.com/Hz9Qhhx.png" height="80%" width="80%" alt="Login Page"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Home Page:  <br/>
+<img src="https://i.imgur.com/oXWZj1H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Dashboard: <br/>
+<img src="https://i.imgur.com/zGdtdPO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Admission Form:  <br/>
+<img src="https://i.imgur.com/y2noTfP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Attendance Form:  <br/>
+<img src="https://i.imgur.com/0TaKZlT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Exam Routine Report:  <br/>
+<img src="https://i.imgur.com/nHMOQPE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Exam Result Report:  <br/>
+<img src="https://i.imgur.com/6kcIQZP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
