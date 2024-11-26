@@ -3,7 +3,7 @@
  ### [Live Project](https://apex.oracle.com/pls/apex/r/yameenapex/school-management-system/login?session=116601283246906)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+The School Management System is designed to streamline key academic and administrative processes of a school. It enables efficient management of admissions, attendance tracking, exam schedules, and result publication. The system also supports financial operations, including fees and transactions, while providing tools to organize and manage other school-related information. With its intuitive interface and robust features, the system simplifies daily operations and enhances overall efficiency.
 <br />
 
 
