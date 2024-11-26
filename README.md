@@ -26,7 +26,7 @@ The School Management System is designed to streamline key academic and administ
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://drive.google.com/file/d/1HOMcHdmya1CezzvXAHLFVVF9_J-GpZG0/view" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
