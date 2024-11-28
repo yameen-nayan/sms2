@@ -1,7 +1,7 @@
 <h1>School Management System</h1>
 
  ### [Live Project](https://apex.oracle.com/pls/apex/r/yameenapex/school-management-system/login?session=116601283246906)
- ### [YouTube Demonstration](https://apex.oracle.com/pls/apex/r/yameenapex/school-management-system/login?session=116601283246906)
+ ### [YouTube Demonstration](https://www.youtube.com/watch?v=L9XQ_FLgBVo&ab_channel=Md.YameenNayan)
 
 <h2>Description</h2>
 The School Management System is designed to streamline key academic and administrative processes of a school. It enables efficient management of admissions, attendance tracking, exam schedules, and result publication. The system also supports financial operations, including fees and transactions, while providing tools to organize and manage other school-related information. With its intuitive interface and robust features, the system simplifies daily operations and enhances overall efficiency.
